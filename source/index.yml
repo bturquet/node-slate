@@ -1,4 +1,4 @@
-title: API Reference
+title: Decathlon STORES API Reference
 
 language_tabs:
   - bash
@@ -11,6 +11,14 @@ toc_footers:
   - <a href='https://github.com/tripit/slate'>Documentation Powered by Slate</a>
 
 includes:
+  - introduction
+  - authentication
+  - prices
+  - stocks
+  - supply
+  - data
+  - newton
+  - mystore
   - main
   - _errors
 

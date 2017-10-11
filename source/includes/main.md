@@ -1,4 +1,4 @@
-# Introduction
+# OLD Introduction
 
 Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
 
@@ -6,7 +6,7 @@ We have language bindings in Shell, Ruby, and Python! You can view code examples
 
 This example API documentation page was created with [Slate](https://github.com/tripit/slate). Feel free to edit it and use it as a base for your own API's documentation.
 
-# Authentication
+# OLD Authentication
 
 > To authorize, use this code:
 
@@ -46,7 +46,7 @@ Kittn expects for the API key to be included in all API requests to the server i
 You must replace <code>meowmeowmeow</code> with your personal API key.
 </aside>
 
-# Kittens
+# OLD Kittens
 
 ## Get All Kittens
 
